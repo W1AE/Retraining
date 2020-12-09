@@ -11,7 +11,7 @@ Most multilayer neural networks are conposed of two separate stages: unsupervise
 ## Learning Structure:
 
 <img src="https://github.com/W1AE/Retraining/blob/main/f.jpg" width="550" height="330" />
-Fig. 1 Flowchart of the RML-MP and SRML-MP for multi-view representation learning.
+Fig. 1 Flowchart of the RML-MP and SRML-MP for multi-view representation learning.\\
 
 <img src="https://github.com/W1AE/Retraining/blob/main/f1.jpg" width="1050" height="430" />
 Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. The difference of RML-ELM and SRML-ELM lies in Stage 3, the RML-ELM use $\ell_2$ penalty to recalculate the parameters while the SRML-ELM adopt $\ell_{1/2}$ penalty to update the weights.
