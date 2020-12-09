@@ -18,29 +18,17 @@ Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. 
 
 ## Related Work:
 
-[1] Zhang, W. (2020). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+[1] Zhang, W. (2020). Multilayer Least Square Based Neural Network with Recomputation for Multi-View Big Data Analysis. IEEE Transactions on Neural Networks and Learning Systems
 
 ## Downloads:
-### MNIST-2 (Visual Image Classification Domain)
+### MNIST-2 (One Class Classification Domain)
 * MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 * MNIST-2 features: [MNIST-2 (GoogLe Drive)](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing) or [MNIST-2 (GitHub)](https://github.com/W1AE/OCC/blob/main/M_2.mat)
 * Source code for MNIST-2: [SC-MNIST-2](https://github.com/W1AE/OCC/blob/main/Demo_MNIST.zip)
-### NORB-2 (Visual Image Classification Domain)
+### NORB-2 (One Class Classification Domain)
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
 * NORB-2 features: [NORB-2 (GoogLe Drive)](https://drive.google.com/file/d/11CNibSMWIP77VYPBiN9-GEmDQT-jTWnl/view?usp=sharing)
 * Source code for NORB-2: [SC-NORB-2](https://github.com/W1AE/OCC/blob/main/Demo_NORB.zip)
-### Place-D (Visual Image Classification Domain)
-* Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
-* Place-D features: [PLACE-D (GoogLe Drive)](https://drive.google.com/file/d/18eULO1viweE_x5hOetlavGshYggIigVd/view?usp=sharing)
-* Source code for Place-D: [SC-PLACE-D](https://github.com/W1AE/OCC/blob/main/Demo_Place.zip)
-### Food identification (Extended Domain)
-* Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
-* Food+ features: [FOOD+ (GoogLe Drive)](https://drive.google.com/file/d/1UfG5LUW8CtTB7fc4sPZhMW6eHiV32opc/view?usp=sharing)
-* Source code for Food+: [SC-FOOD+](https://github.com/W1AE/OCC/blob/main/Demo_Food.zip)
-### Rumor detection (Extended Domain)
-* Rumor dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/W1AE/OCC/blob/main/BL.csv)
-
-#The rumor dataset is our newly collected dataset, here we only show part of the dataset. After acceptance of the manuscript (if decided so), the whole dataset will be released.
 
 ## Dependancies
 * Matlab version 2020a,
