@@ -10,6 +10,8 @@ Most multilayer neural networks are conposed of two separate stages: unsupervise
 
 ## Learning Structure:
 
+<img src="https://github.com/W1AE/Retraining/blob/main/f.jpg" width="550" height="430" />
+
 <img src="https://github.com/W1AE/Retraining/blob/main/f1.jpg" width="1050" height="430" />
 
 ## Related Work:
