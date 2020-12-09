@@ -27,7 +27,7 @@ Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. 
 * Source code for MNIST-2: [OC-MNIST-2](https://github.com/W1AE/Retraining/blob/main/Demo_MNIST.zip)
 ### MNIST-4 (One Class Classification Domain)
 * MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
-* MNIST-2 features: [MNIST-4 (GoogLe Drive)](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing) 
+* MNIST-2 features: [MNIST-4 (GitHub)](https://github.com/W1AE/Retraining/blob/main/M_4.mat) 
 * Source code for MNIST-4: [OC-MNIST-4](https://github.com/W1AE/Retraining/blob/main/Demo_MNIST.zip)
 ### NORB-2 (One Class Classification Domain)
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
