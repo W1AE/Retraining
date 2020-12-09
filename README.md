@@ -36,7 +36,5 @@ Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. 
 
 ## Reproduce the Experimental Results
 
-Run script "Coding_OCSNN.m" for original OC-SNN algorithm, run script "Coding_MCOCSNN.m" for the improved MCOC-SNN algorithm.
-
 #The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
 
