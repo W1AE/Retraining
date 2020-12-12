@@ -18,7 +18,7 @@ Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. 
 
 ## Related Work:
 
-[1] Zhang, W. (2020). Multilayer Least Square Based Neural Network with Recomputation for Multi-View Big Data Analysis. IEEE Transactions on Neural Networks and Learning Systems
+[1] Zhang, W. (2020). Multilayer Least Square Based Neural Network with Recomputation for Multi-View Big Data Analysis. IEEE Transactions on Cybernetics
 
 ## Downloads:
 ### MNIST-2 (One Class Classification Domain)
