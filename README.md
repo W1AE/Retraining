@@ -1,4 +1,4 @@
-# Multilayer Least Square Based Neural Network with Recomputation for Multi-View Big Data Analysis
+# Multi-Model Least Square-Based Recomputation Framework for Large Data Analysis
 ## Abstract:
 
 Most multilayer neural networks are conposed of two separate stages: unsupervised feature representation and supervised final classification. Specifically, when the hidden space (latent space) features are captured, they are fixed without any modification. However, in big data analysis situation, definitely there are more clues than can be directly represented. In other worlds, only the consideration of the unsupervised representations are not enough to the final stage classification. To solve this problem, in this paper, two novel LS-based representation learning metworks called RML-MP and SRML-MP are proposed to achieve a better generalization performance. In particular, the error matrix of the output layer are pulled back to each hidden layer, and the weights in each hidden layer are updated and recalculated with the input and the pulled error. The experimental results on cross-domain validation with the number of samples ranging from 3000 to more than 1.8 million validate the effectiness of the proposed models.  
@@ -18,7 +18,7 @@ Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. 
 
 ## Related Work:
 
-[1] Zhang, W. (2020). Multilayer Least Square Based Neural Network with Recomputation for Multi-View Big Data Analysis. IEEE Transactions on Cybernetics
+[1] Zhang, W. (2020). Multi-Model Least Square-Based Recomputation Framework for Large Data Analysis. IEEE Transactions on Cybernetics
 
 ## Downloads:
 ### MNIST-2 (One Class Classification Domain)
