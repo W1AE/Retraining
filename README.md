@@ -18,7 +18,7 @@ Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. 
 
 ## Related Work:
 
-[1] Zhang, W. (2020). Multi-Model Least Square-Based Recomputation Framework for Large Data Analysis. arvix, [Link](https://arxiv.org/abs/2101.01271)
+[1] Arvix: Multi-Model Least Square-Based Recomputation Framework for Large Data Analysis. [Link](https://arxiv.org/abs/2101.01271)
 
 ## Downloads:
 ### Caltech-101 (Image Classification Domain)
